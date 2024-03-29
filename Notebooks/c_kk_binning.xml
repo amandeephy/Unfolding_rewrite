@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE TUnfoldBinning SYSTEM "tunfoldbinning.dtd">
+<TUnfoldBinning>
+<BinningNode name="detector" firstbin="1" factor="1">
+ <BinningNode name="ttbarreco" firstbin="1" factor="1">
+  <Axis name="c_kk" lowEdge="-1">
+   <Bin repeat="48" width="0.0416667" center="-0.979167" />
+  </Axis>
+ </BinningNode>
+</BinningNode>
+<BinningNode name="generator" firstbin="1" factor="1">
+ <BinningNode name="ttbargen" firstbin="1" factor="1">
+  <Axis name="c_kk" lowEdge="-1">
+   <Bin repeat="24" width="0.0833333" center="-0.958333" />
+  </Axis>
+ </BinningNode>
+</BinningNode>
+</TUnfoldBinning>
