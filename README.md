@@ -1,2 +1,3 @@
 # Unfolding_rewrite
-Repository for migrating away from TUnfold to a more python-like Maximum Liklihood fit using the Higgs combine tool.
+Repository for checkpointing progress on the unfolding part of the top-quark-spin-correlations project maintained on gitlab.
+
